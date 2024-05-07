@@ -1,0 +1,27 @@
+{
+	"connection_key": "request",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"api_status_code": 200,
+	"runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+	"business_partner": 1001,
+	"service_label": "ATTENDANCE",
+	"api_type": "reads",
+	"Attendance": {
+		"Attendance": 1,
+		"AttendanceDate": "2024-04-01",
+		"AttendanceTime": "14:13:52",
+		"Attender": 10001,
+		"AttendanceObjectType": "EVT",
+		"AttendanceObject": 1,
+		"Participation": 2389,
+		"CreationDate": "2024-04-01",
+		"CreationTime": "14:13:52",
+		"IsCancelled": null
+	},
+	"api_schema": "DPFMAttendanceReads",
+	"accepter": [
+		"Header"
+	]
+}
